@@ -1,0 +1,121 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Helvetica, sans-serif;
+    background-color: rgb(243, 243, 243);
+    margin: 20px;
+    padding: 20px;
+    width: 80%; /* Adjust the width as needed */
+    margin: 20px auto; /* Center the container and provide some space */
+    border: 0px solid rgb(118, 118, 118);
+    border-radius: 20px;
+    border-style: ;
+     
+    h2 {
+        text-shadow:  1px 1px 1px rgba(0, 0, 0, 0.649);
+        font-weight: bold;
+        text-align: center;
+    }
+}
+      
+
+#number1 { 
+    background-color: rgba(209, 209, 209, 0.404);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.694);
+}
+
+#number2 { 
+    background-color: rgba(209, 209, 209, 0.778) ;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.694);
+}
+
+#number3 { 
+    background-color: rgb(209, 209, 209) ;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.694);
+}
+
+.class1 img {
+        height: 140px ;
+        width: 140px;
+    }   
+.class1 {
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        align-self: center;
+
+        gap: 60px;
+}
+
+
+.Cards1 {
+    text-align: center;
+}
+
+
+.Cards {
+    display: flex;
+    text-align: center;
+    height: 500px;
+
+  }
+
+  
+.Card img {
+    height: 140px;
+    width: 100%;
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.694);
+  }
+
+  .Card p{
+    font-size: 12px;
+  }
+
+  .Card{
+    width: 200px;
+    height: 320px;
+    background:rgb(243, 243, 243) ;
+    margin: 5px;
+  }
+
+  footer { 
+    background-image: url();
+  }
+
+  ul{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    
+  }
+
+  h1{
+    text-align: center;
+
+  }
+  li{
+    width: 500px;
+  }
+
+  header li a:active{
+    color: orange;
+  }
+
+  header li a:visited{
+    color: orange;
+  }
+
+  footer li a:active{
+    color: orange;
+  }
+
+  footer li a:visited{
+    color: orange;
+  }
+
+.numbers {
+    width: 750px;
+}
