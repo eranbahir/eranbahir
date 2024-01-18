@@ -83,7 +83,7 @@ body{
 
   footer{ 
     background-image:
-        url(https://media.istockphoto.com/id/1394375293/vector/a-set-of-seamless-mango-patterns-fruit.jpg?s=1024x1024&w=is&k=20&c=EjZd-4ec01D_6MRS8-maa4aijCaA4Ejps8CGS9peF58=);
+        url(https://img.freepik.com/premium-vector/seamless-pattern-with-mango-banana_115464-44.jpg?w=1380);
   }
 
   ul{
@@ -110,11 +110,11 @@ body{
   }
 
   footer li a:active{
-    color: orange;
+    color: black;
   }
 
   footer li a:visited{
-    color: orange;
+    color: black;
   }
 
 .numbers {
